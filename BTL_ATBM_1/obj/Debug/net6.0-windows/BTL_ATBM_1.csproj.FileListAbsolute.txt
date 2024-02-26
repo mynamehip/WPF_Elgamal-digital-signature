@@ -1,0 +1,48 @@
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.exe
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.deps.json
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.runtimeconfig.json
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.pdb
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.AssemblyReference.cache
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1_MarkupCompile.cache
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1_MarkupCompile.lref
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.g.resources
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.AssemblyInfoInputs.cache
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.AssemblyInfo.cs
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\refint\BTL_ATBM_1.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.pdb
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.genruntimeconfig.cache
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\ref\BTL_ATBM_1.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+C:\Users\Bravo 15\Documents\ATBMTT\BTL_ATBM_1\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.CopyComplete
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.exe
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.deps.json
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.runtimeconfig.json
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.dll
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\BTL_ATBM_1.pdb
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.AssemblyReference.cache
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1_MarkupCompile.cache
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1_MarkupCompile.lref
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.g.resources
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.AssemblyInfoInputs.cache
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.AssemblyInfo.cs
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.csproj.CopyComplete
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.dll
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\refint\BTL_ATBM_1.dll
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.pdb
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\BTL_ATBM_1.genruntimeconfig.cache
+C:\Users\mynam\Documents\Old_Document\ATBMTT\nhom4_TranDinhHiep_2020602457\BTL_ATBM_1\obj\Debug\net6.0-windows\ref\BTL_ATBM_1.dll
